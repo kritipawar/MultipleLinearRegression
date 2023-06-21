@@ -44,4 +44,4 @@ Dataset has daily records of bike rentals along with season, month, temp and oth
 
 
 ## Contact
-Created by [@kritipawar03] - feel free to contact me!
+Created by [@kritipawar] - feel free to contact me!
