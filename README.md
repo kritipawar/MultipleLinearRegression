@@ -14,7 +14,7 @@ To model the demand for shared bikes with the available independent variables.
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- the company BoomBikes wants —
+-- the company BoomBikes wants —
 
 
 -   to understand how exactly the demands vary with different features.
