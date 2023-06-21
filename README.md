@@ -23,6 +23,10 @@ The Rental Company wants
 
 Dataset has daily records of bike rentals along with season, month, temp and other details.
 
+## Model Summary
+- R-Squared score on Train set:  0.83
+- Adjusted R-Squared score on Train set:  0.82
+- R-Squared score on Test set 0.79
 
 ## Conclusions
 We can include few things to make our model better than current: 
