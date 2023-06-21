@@ -19,9 +19,10 @@ The Rental Company wants
 
 -   accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
 
--   understand the demand dynamics of a new market. 
+-   understand the demand dynamics of a new market.
 
-- Dataset has 750 rows and 16 columns: has the daily record of bike rentals booked, also has temp, windspeed and other data.
+
+Dataset has daily records of bike rentals along with season, month, temp and other details.
 
 
 ## Conclusions
