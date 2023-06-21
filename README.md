@@ -14,9 +14,7 @@ To model the demand for shared bikes with the available independent variables.
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
--- the company BoomBikes wants —
-
-
+The Rental Company wants
 -   to understand how exactly the demands vary with different features.
 
 -   accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
