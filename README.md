@@ -3,14 +3,6 @@
 
 To model the demand for shared bikes with the available independent variables. 
 
-the company BoomBikes wants —
-
-
-- to understand how exactly the demands vary with different features.
-
-- accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
-
-- understand the demand dynamics of a new market. 
 
 
 ## Table of Contents
@@ -22,12 +14,17 @@ the company BoomBikes wants —
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- the company BoomBikes wants —
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+-   to understand how exactly the demands vary with different features.
+
+-   accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+
+-   understand the demand dynamics of a new market. 
+
+- Dataset has 750 rows and 16 columns: has the daily record of bike rentals booked, also has temp, windspeed and other data.
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
