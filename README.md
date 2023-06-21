@@ -25,10 +25,18 @@ Dataset has daily records of bike rentals along with season, month, temp and oth
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+We can include few things to make our model better than current: 
+1. Try building non-linear model
+2. Add new features as geolocation, pincode, city etc
+
+Model Insights:
+1. Positive relation with year. It shows bike rental has increased over the year.
+2. Strong positive relation with feeling temperature.
+3. Negative relation with windspeed & spring season.
+4. 0 rentals in rainy season
+
+Business Insights:
+- Business should make more bike available during april to Sept excluding rainy seasons.
 
 
 ## Technologies Used
